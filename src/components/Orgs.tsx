@@ -11,7 +11,7 @@ export default function Orgs() {
 
             <div className="grid grid-cols-12 w-full max-w-7xl mx-auto">
                 <div className="col-span-5 flex items-center">
-                    <img src="/public/best_logo.png" alt="logo" />
+                    <img src="/best_logo.png" alt="logo" />
                 </div>
                 <div className="col-span-7 p-6">
                     <h4 className="text-center text-xl mb-4">Місія BEST — розвиток студентів.</h4>
