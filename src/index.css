@@ -40,7 +40,7 @@ body {
   color-scheme: dark;
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-height: 1000px) {
   html {
     scroll-snap-type: y mandatory;
   }

@@ -11,10 +11,10 @@ export default function BECforYou() {
             <div className="flex flex-col justify-center items-center w-full max-w-7xl mx-auto">
 
                 <div className="flex justify-evenly flex-wrap mt-14 gap-14">
-                    <div className="relative justify-between col-span-1 flex flex-col pb-14 border-2 border-bec-orange  md:w-[500px] ">
+                    <div className="relative justify-between col-span-1 flex flex-col border-2 border-bec-orange pb-14 md:w-[500px]">
                         <div className="flex flex-col h-full justify-evenly">
-                            <div className="relative flex gap-2 text-bec-orange text-4xl -top-6 bg-bec-bg w-fit left-4">
-                                Компанія
+                            <div className="relative flex text-bec-orange gap-2 px-1 -mt-2 text-4xl -top-6 bg-bec-bg w-fit left-4">
+                                КОМПАНІЯ
                                 <img src="/case.svg" alt="case" />
                             </div>
                             <p className=" px-6 font-bold text-xl leading-none mt-5">Спільнота молодих інженерів</p>
@@ -27,9 +27,9 @@ export default function BECforYou() {
                         <p className="px-6 border-t-2 bottom-0 text-lg border-bec-orange pt-4 mt-4 text-center">Партнерство з BEC є вигідним для компаній, які прагнуть залучити талановитих молодих фахівців, залучитись до волонтерської діяльності та активно впливати на розвиток студентської спільноти.</p>
                     </div>
                     <div className="relative justify-between col-span-1 flex flex-col border-2 border-bec-orange pb-14 md:w-[500px] ">
-                        <div className="flex flex-col">
-                            <div className="relative flex gap-2 text-bec-orange text-4xl -top-6 bg-bec-bg w-fit left-4">
-                                Компанія
+                        <div className="flex flex-col h-full justify-evenly">
+                            <div className="relative flex text-bec-orange gap-2 px-1 text-4xl -top-6 bg-bec-bg w-fit left-4">
+                                СТУДЕНТ
                                 <img src="/hat.svg" alt="hat" />
                             </div>
                             <p className=" px-6 font-bold text-xl leading-none mt-5">Практичний досвід</p>
