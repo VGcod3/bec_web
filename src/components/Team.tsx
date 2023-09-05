@@ -5,12 +5,7 @@
 export default function Team() {
     return (
         <section className="min-h-screen flex flex-col items-start justify-center px-6 mx-auto ">
-            <div className="relative w-full hidden lg:flex justify-center mb-16">
-                <h2 className=' absolute -top-4 right-1/2 bg-bec-bg self-center uppercase w-fit px-1 text-4xl   text-center '>Команда організаторів</h2>
-                <hr className="w-full h-1 bg-white border-none rounded" />
-            </div>
-
-            <h2 className='lg:hidden text-white self-center uppercase w-fit px-1 text-5xl md:text-7xl text-center mb-10'>Команда організаторів</h2>
+            <h2 className=' bg-bec-bg self-center uppercase w-fit px-1 text-4xl  text-center mb-10'>Команда організаторів</h2>
 
             <div className="flex w-full justify-center">
                 <div className="flex flex-col items-center gap-2 w-42">

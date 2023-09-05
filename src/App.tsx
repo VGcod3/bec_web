@@ -44,7 +44,7 @@ export default function App() {
       </ScreenSection>
       <ScreenSection>
         <div className='grid grid-cols-12'>
-          <div className="col-span-12 h-screen ">
+          <div className="col-span-12 min-h-screen min-h-fit">
             <MVA />
           </div>
           <div className="col-span-12 absolute w-full ">

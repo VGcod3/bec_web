@@ -12,8 +12,8 @@ export default function MVA() {
             </div>
             <div className="flex justify-center flex-col">
                 <h2 className='uppercase relative top-6 w-fit left-[170px] bg-bec-bg text-5xl md:text-7xl text-left text-bec-orange'>Ціль</h2>
-                <p className='text-xl md:text-2xl mx-auto border-2 border-bec-orange max-w-4xl p-10'>Основною ціллю змагань є створення середовища, яке сприяє навчанню, розвитку навичок та творчого мислення у студентів, зацікавлених в інженерії. Проєкт надає можливість учасникам під час роботи в команді, застосувати весь свій креативний потенціал задля розв’язання реальних технічних проблем.
-                    <p className='text-xl md:text-2xl mx-auto mt-6 text-bec-orange text-center'>Майбутнє за інженерами</p>
+                <p className='text-md md:text-2xl mx-auto border-2 border-bec-orange max-w-4xl p-5 md:p-10'>Основною ціллю змагань є створення середовища, яке сприяє навчанню, розвитку навичок та творчого мислення у студентів, зацікавлених в інженерії. Проєкт надає можливість учасникам під час роботи в команді, застосувати весь свій креативний потенціал задля розв’язання реальних технічних проблем.
+                    <p className='text-xl md:text-2xl mx-auto mt-3 md:mt-6 text-bec-orange text-center'>Майбутнє за інженерами</p>
                 </p>
             </div>
         </div>
