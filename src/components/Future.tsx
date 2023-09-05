@@ -4,7 +4,7 @@ export default function Future() {
         <section className="min-h-screen flex flex-col items-start justify-center max-w-7xl px-6 mx-auto ">
             <h2 className='uppercase text-5xl md:text-7xl text-center mx-auto mb-6'>BEC 2023</h2>
             <div className="border-2 border-bec-orange w-full ">
-                <h3 className="text-bec-orange text-4xl m-1 mb-12">МАЙБУТНЄ ЗА ІНЖЕНЕРАМИ</h3>
+                <h3 className="text-bec-orange text-center text-4xl m-1 mb-12">МАЙБУТНЄ ЗА ІНЖЕНЕРАМИ</h3>
 
                 <p className="text-center mx-6 text-lg italic mb-8">Після початку повномасштабного вторгнення росії та непроведеного заходу у 2022 році, Інженерні змагання повертаються під оновленим брендом. Враховуючи складну ситуацію в країні, тематика обидвох категорій буде стосуватись суспільних проблем в країні, спричинених війною.</p>
 
