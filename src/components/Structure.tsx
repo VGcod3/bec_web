@@ -2,7 +2,7 @@
 export default function AboutEbec() {
     return (
         <section className="min-h-screen flex flex-col items-start justify-center px-6 mx-auto ">
-            <div className="relative w-full hidden lg:flex justify-center mb-16">
+            <div className="relative w-full hidden lg:flex justify-center mb-16 mt-20">
                 <h2 className=' absolute -top-8 right-1/5 bg-bec-bg self-center uppercase w-fit px-1 text-5xl md:text-7xl  text-center '>Структура змагань</h2>
                 <hr className="w-full h-1 bg-bec-orange border-none rounded" />
             </div>

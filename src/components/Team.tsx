@@ -43,7 +43,7 @@ export default function Team() {
                 </div>
             </div>
 
-            <div className="grid grid-cols-5 gap-5 mx-auto mt-10">
+            <div className="grid grid-cols-4 gap-5 mx-auto mt-10">
                 <div className="flex flex-col items-center gap-2 w-42">
                     <img src="/vlad.jpg" alt="Artem" className="rounded-full h-40 w-40 object-cover" />
                     <p className="text-center text-lg font-bold">Рогульчик Владислав</p>
@@ -64,11 +64,7 @@ export default function Team() {
                     <p className="text-center text-lg font-bold">Гаврилко Андрій</p>
                     <p className="text-center text-lg">Fundraising Responsible</p>
                 </div>
-                <div className="flex flex-col items-center gap-2 w-42">
-                    <img src="/miya.jpg" alt="Artem" className="rounded-full h-40 w-40 object-cover" />
-                    <p className="text-center text-lg font-bold">Марія Марків</p>
-                    <p className="text-center text-lg">Mentor</p>
-                </div>
+
             </div>
 
         </section>
