@@ -9,7 +9,7 @@ export default function AboutEbec() {
 
                 <div className="col-span-11 lg:col-span-6 grid gap-5">
                     <p className="text-xl md:text-2xl max-w-2xl mx-auto ">
-                        Перший локальний етап інженерний у Львові відбувся 27 квітня 2009 року і мав назву BEC – BEST Engineering Competition. Започаткування проєкту означало створення платформи для студентів-інженерів, які хотіли змінювати себе та суспільство шляхом втілення в життя власних інноваційних ідей. У 2013 році назва була змінена на European BEST Engineering Competition, тобто EBEC.
+                        Перші змагання у Львові відбулися 27 квітня 2009 року і мали назву BEC – BEST Engineering Competition. Започаткування проєкту означало створення платформи для студентів-інженерів, які хотіли змінювати себе та суспільство шляхом втілення в життя власних інноваційних ідей. У 2013 році назва була змінена на European BEST Engineering Competition, тобто EBEC.
                     </p>
                 </div>
                 <div className="col-span-11 lg:col-span-5 px-10">
