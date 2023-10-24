@@ -1,4 +1,3 @@
-
 export default function BECforYou() {
     return (
         <section className="min-h-screen flex flex-col items-start justify-center px-6 mx-auto ">
